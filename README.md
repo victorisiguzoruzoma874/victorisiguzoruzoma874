@@ -2,7 +2,7 @@
 
 ### Data Analyst | Mechanical Engineer | Power BI Specialist
 
-I am a passionate data professional with a strong engineering background. I specialize in transforming raw data into actionable insights through rigorous cleaning, advanced modeling, and compelling visualization.
+I am a passionate data professional and developer with a strong engineering background. I specialize in transforming raw data into actionable insights through rigorous cleaning, advanced modeling, compelling visualization, building web3 app that sync with fiat and software projects that is built using typescript,go,python,n.js.
 
 ---
 
